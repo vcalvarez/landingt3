@@ -11,23 +11,23 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Docente universitaria",
+  desc: "Imparto clases en la Faculta de Ingeniería, tanto en nivel licenciatura como en maestría.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Clases",
+      desc: "Imparto clases relacionadas con métodos de investigación, así como también algunas materias universitarias.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Asesorías y tutorías",
+      desc: "Doy sesiones de asesoría (individual o grupal) sobre las asignaturas que imparto. También doy sesiones de tutoría para dar acompañamiento académico personalizado a algunos estudiantes.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Investigación",
+      desc: "Los temas que más me interesan en investigación son: tecnología educativa, formación docente en TIC, competencias digitales, CSCL (Computer Supported Collaborative Learning), entre otros.",
       icon: <CursorArrowRaysIcon />,
     },
   ],
